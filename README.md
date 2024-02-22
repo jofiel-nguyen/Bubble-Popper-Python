@@ -2,7 +2,7 @@
 
 Bubble Popper is a simple web application where users can pop bubbles that fall down the screen.
 
-![Bubble Popper Demo](./demo.gif)
+![Bubble Popper Demo(./demo.gif)](https://bubble-popper-python.onrender.com/)
 
 ## Features
 
